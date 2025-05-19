@@ -1,4 +1,6 @@
-# CNN-LSTM-Transformer_Hybrid_DNA_Classification
+# CNN-LSTM-Transformer_Hybrid_DNA_Classification (DeepHybrid)
+
+**Authors: Sunil Kumar, Ajit Bhandari, Aryan Gupta, Chanddan H, Biswajit Bhowmik**
 
 This project implements a hybrid CNN-LSTM-Transformer model for classifying viral DNA sequences. The approach incorporates adaptive K-mer encoding for optimal feature extraction and model performance. This README provides detailed instructions on the dataset, included source files, and how to use them.
 
